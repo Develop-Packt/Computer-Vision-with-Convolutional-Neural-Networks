@@ -1,2 +1,6 @@
-# Computer-Vision-with-Convolutional-Neural-Networks
-This module is part of the Deep Learning with Keras learning path – complete this path to learn how to apply deep learning algorithms in Python's Keras library. Explore the architecture of CNNs and related techniques to build image processing applications and classify models with Keras.
+# Computer Vision with Convolutional Neural Networks
+
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Computer-Vision-with-Convolutional-Neural-Networks.svg)](https://github.com/Develop-Packt/Computer-Vision-with-Convolutional-Neural-Networks/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Computer-Vision-with-Convolutional-Neural-Networks.svg)](https://github.com/Develop-Packt/Computer-Vision-with-Convolutional-Neural-Networks/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Computer-Vision-with-Convolutional-Neural-Networks.svg)](https://github.com/Develop-Packt/Computer-Vision-with-Convolutional-Neural-Networks/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Computer-Vision-with-Convolutional-Neural-Networks/pulls)
